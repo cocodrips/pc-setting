@@ -1,5 +1,3 @@
-cocodrips.zsh-theme
-
 # On a mac with snow leopard, for nicer terminal colours:
 
 # - Install SIMBL: http://www.culater.net/software/SIMBL/SIMBL.php
