@@ -64,13 +64,9 @@ def configure(keymap):
         keymap_global["U0-Q"] = "C-Q"
         keymap_global["U0-Z"] = "C-Z"
         keymap_global["U0-G"] = "C-G"
-        keymap_global["U0-D"] = "C-D"
+        keymap_global["U0-R"] = "C-R"
 
         keymap_global["U0-Tab"] = "A-Tab"
-        # keymap_global[ "LC-Q" ] = "S-F10"
-        # keymap_global[ "RC-W" ] = "A-F4"
-        # keymap_global[ "RC-Tab" ] = "A-Tab"
-
         # キーボードマクロ
 
         keymap_global["O-LCtrl"] = lambda: keymap.wnd.setImeStatus(0)
