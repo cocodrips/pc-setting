@@ -1,0 +1,13 @@
+
+# zsh -> l
+alias l='ls --all --color'
+
+# cd and ls
+cdls () 
+{
+    \cd "$@" && ls --all --color
+}
+alias cd='cdls'
+
+# open (cygwin)
+alias open='cygstart'
