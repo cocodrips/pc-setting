@@ -1,0 +1,5 @@
+cdls ()
+{
+    \cd "$@" && ls
+}
+alias cd="cdls"
