@@ -6,4 +6,5 @@
 	co = checkout
 	st = status
 	cm = commit -m
+	ca = commit --amend
 	graph = log --graph --decorate

@@ -15,6 +15,3 @@ function peco-src() {
 
 alias d='ghq list --full-path | peco-src cd'
 
-
-
-export PATH=$PATH:/Users/piyopiyo/pc-setting/dotfiles/.zsh.d/commands
