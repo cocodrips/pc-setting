@@ -10,4 +10,3 @@ export LC_CTYPE=ja_JP.UTF8
 export EDITOR="emacs"
 export KUBE_EDITOR="emacs"
 export GIT_EDITOR="emacs"
-
